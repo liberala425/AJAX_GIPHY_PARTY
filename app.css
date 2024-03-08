@@ -1,0 +1,26 @@
+h1 {
+    text-align: center;
+    color:white;
+}
+body {
+    background-color: black;
+}
+.formcontainer {
+    text-align: center;
+    height: 50px;
+}
+
+#inputbox {
+    height: 30px;
+}
+#Search {
+    background-color: darkgray;
+    color:white;
+    height: 30px;
+}
+
+#Remove {
+    background-color: orangered;
+    color:white;
+    height: 30px;
+}
